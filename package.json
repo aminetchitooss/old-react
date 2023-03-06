@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "date-fns": "^2.29.3",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
+    "recharts": "^1.7.1",
     "swiper": "^9.0.3"
   },
   "devDependencies": {
